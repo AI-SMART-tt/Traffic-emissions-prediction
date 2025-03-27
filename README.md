@@ -6,6 +6,9 @@ This work explores the impact of the built environment on truck emissions using 
 
 This research develops a comprehensive framework to analyze the nonlinear effects of the built environment on heavy-duty diesel truck emissions. The study utilizes large-scale GPS data from Shanghai, China, integrating random effects with a light gradient boosting machine (LightGBM) to account for spatiotemporal and policy influences.
 
+![0-整体框架图货车](https://github.com/user-attachments/assets/aa164142-8339-474b-b674-6efd8ec808ea)
+
+
 ## Key Features
 
 - Interpretable machine learning model combining random effects with LightGBM
@@ -20,6 +23,9 @@ The study employs a Mixed Effects approach combined with various machine learnin
 - Spatial heterogeneity (districts, zones)
 - Temporal patterns (hour of day, day period)
 - Policy restrictions (PRU - Policy Restriction Units)
+
+![image](https://github.com/user-attachments/assets/9fb7b16a-e04e-4ed1-86b7-2e071ab7e819)
+
 
 ## Citation
 
